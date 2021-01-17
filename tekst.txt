@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 brak zawartości
+=======
+Wprodzadzone zmiany do pliku
+
+nowa zmiana
+
+jughuuu
+
+
+zmiana na branchu
+>>>>>>> develop
